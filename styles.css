@@ -4,9 +4,14 @@ body {
     color: #fff; /* White text */
 }
 
-h1, h2 {
+h1 {
     text-align: center;
     color: #fff; /* White text */
+}
+
+h2 {
+    text-align: center;
+    color: #333; /* Dark gray text */
 }
 
 .container {
