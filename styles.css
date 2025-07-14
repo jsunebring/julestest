@@ -1,17 +1,23 @@
 body {
     font-family: sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: #005b96; /* IFK Blue */
+    color: #fff; /* White text */
 }
 
 h1, h2 {
     text-align: center;
-    color: #005b96;
+    color: #fff; /* White text */
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
+    text-align: center; /* Center the logo */
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
 }
 
 .team {
